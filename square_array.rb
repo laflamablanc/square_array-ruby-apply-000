@@ -5,3 +5,5 @@ def square_array(array)
   end
   return new_arr
 end
+
+puts suare_array([5,10,3])
